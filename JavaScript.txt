@@ -1,0 +1,57 @@
+
+__________________________
+Java Script Tutorial [MDN]
+
+
+basic convention:
+variable names are camel-case - sampleVariableName
+function name are camel-case as well - sampleFunctionName()
+class name are first letter capitalised - SampleClassName{}
+
+
+
+
+-------------------------------
+important topics:
+	import & export
+	__proto__
+	strict mode
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+..
